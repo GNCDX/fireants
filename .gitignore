@@ -55,7 +55,7 @@ src/qt/fireants-qt.includes
 .dirstamp
 .libs
 .*.swp
-*.*~*
+*~
 *.bak
 *.rej
 *.orig
